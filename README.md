@@ -1,6 +1,6 @@
 # mytourbook.github.io
 
-This site provides alternative update sites for MyTourbook which is documented in [software updates](https://mytourbook.sourceforge.io/mytourbook/index.php/download-install/software-updates).
+This is the update site for MyTourbook which is documented in [software updates](https://mytourbook.sourceforge.io/mytourbook/index.php/download-install/software-updates).
 
 One of these links must be used for the update site otherwise the update will not work
 
