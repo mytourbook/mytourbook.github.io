@@ -8,3 +8,5 @@ https://mytourbook.github.io/update-sites/22.3.1/
 
 https://mytourbook.github.io/update-sites/23.3.1/ 
 
+https://mytourbook.github.io/update-sites/23.3.2/ 
+
