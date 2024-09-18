@@ -4,6 +4,8 @@ This is the update site for MyTourbook which is documented in [software updates]
 
 Use one of the below links in the install software dialog. The links from the above `update-sites` folder are different and do not work !
 
+https://mytourbook.github.io/update-sites/24.9.1/
+
 https://mytourbook.github.io/update-sites/23.5.1/
 
 https://mytourbook.github.io/update-sites/23.3.2/
