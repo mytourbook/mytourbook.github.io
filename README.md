@@ -6,8 +6,6 @@ Use one of the below links in the install software dialog. The links from the ab
 
 https://mytourbook.github.io/update-sites/24.11.3/
 
-https://mytourbook.github.io/update-sites/24.11.2/
-
 https://mytourbook.github.io/update-sites/24.11.1/
 
 https://mytourbook.github.io/update-sites/24.9.1/
